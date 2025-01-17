@@ -1,0 +1,11 @@
+en:
+  start_message: "Hello to all you lovely cuties in this chat! I'll be your judge at the table, keeping track of every triumph and fail, and tallying up the winners' points. If luck isn't on your side—no worries! We can always settle on a price for that 😏"
+  no_wins_recorded: "Oops, looks like you're newbies who haven't played Catan with my help yet.\n Or maybe you're just too silly to record a single game?"
+  leaderboard_title: "**List of the esteemed (and not so esteemed) players by wins:**\n{leaderboard_text}"
+  win_counted: "A Catan win has been recorded for {mention_text}!"
+
+ru:
+  start_message: "Приветулечки всем зайкам в этом чате! Я буду вашим судьей за столом, записывая все достижения, фейлы и считая очки победителей.\nЕсли тебе не везет - не беда! Сойдёмся на цене вопроса 😏"
+  no_wins_recorded: "Упс, кажется вы новички и еще не играли в катан с моей помощью.\nИли вы глупенькие и не догадались записать ни одной игры?"
+  leaderboard_title: "**Список уважаемых (и не очень) игроков по победам:**\n{leaderboard_text}"
+  win_counted: "Засчитана победа в Catan для {mention_text}!"
