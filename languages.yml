@@ -3,9 +3,62 @@ en:
   no_wins_recorded: "Oops, looks like you're newbies who haven't played Catan with my help yet.\n Or maybe you're just too silly to record a single game?"
   leaderboard_title: "**List of the esteemed (and not so esteemed) players by wins:**\n{leaderboard_text}"
   win_counted: "A Catan win has been recorded for {mention_text}!"
+  # Новые строки — «New Game»
+  new_game_prompts:
+    - "Woo-hoo! Let's hit the road! Who's the creator of today's adventure?"
+    - "You just can't sit still without conquering something! Whose authorship is this map?"
+    - "Forward we go, building our banana republic! Who holds the copyright to this map?"
+    - "This is definitely going to be fun ;) Who whipped up this map?"
+    - "Everyone's about to have their asses on fire again :(( Who dumped a pile on the table and called it a map?"
+    - "Oh wow, that's gonna take four hours again. Who was brilliant enough to make this map?"
+    - "What, up until 4 AM again? 🤣 Might as well just get baked and crash, you crazy folks.\nWho so fabulously made this map?"
+    - "Holy moly, that's quite a map you've got there. Who's the genius behind it?"
+    - "Kirill didn’t want a desert again, huh? So who molded this map?"
+    - "Greetings, esteemed players. I'm as happy as a little kid, seeing you've gathered once more to embark on this wonderful adventure with me. Please tell me, who is the mastermind behind this magical thing called a map?"
+    - "No sheep port on two sheep tiles? Well, I'm not sure I want to run the game like that.\nWho comes up with such complicated maps?"
+
+  # Новые строки — «Response after naming the map’s author»
+  author_response_lines:
+    - "I bow and hurriedly take note"
+    - "I humbly knock my forehead in respect"
+    - "From the bottom of my heart, wholeheartedly, to your very soul"
+    - "I grovel on my hind legs and bow with all my heart"
+    - "I will remember this hero for the rest of my life"
+    - "Man, I'm so thrilled I can’t figure out how to respond. Give me a couple more lines to properly admire this map!"
+    - "This map is incredible—definitely the work of a master!"
+    - "...\n...\n...\n...\nSorry, I'm shaken to the core and can't find the right words"
+    - "This map deserves to be immortalized, right alongside cave paintings!"
+    - "Now I know who that virtuoso is 🌚"
+    - "I can't take my eyes off this map! Oh wait, I don't even have eyes"
 
 ru:
   start_message: "Приветулечки всем зайкам в этом чате! Я буду вашим судьей за столом, записывая все достижения, фейлы и считая очки победителей.\nЕсли тебе не везет - не беда! Сойдёмся на цене вопроса 😏"
   no_wins_recorded: "Упс, кажется вы новички и еще не играли в катан с моей помощью.\nИли вы глупенькие и не догадались записать ни одной игры?"
   leaderboard_title: "**Список уважаемых (и не очень) игроков по победам:**\n{leaderboard_text}"
   win_counted: "Засчитана победа в Catan для {mention_text}!"
+  new_game_prompts:
+    - "Юху! В путь-дорогу! Кто создатель сегодняшнего приключения?"
+    - "Без завоеваний вам на месте не сидится! Чьё авторство карты?"
+    - "Вперёд, к строительству банановой республики! Кому принадлежит авторское право на карту?"
+    - "Это определенно будет весело) кто карту намутил?"
+    - "Сейчас снова у всех жопы сгорят :(( кто наложил кучу на столе и назвал это картой?"
+    - "Ёмаё, ну это часа на 4 опять. Кто додумался сделать такую карту?"
+    - "Что, опять до 4х утра? 🤣 Лучше б дунули и разошлись спать, упоротые)\nКто так феерично карту сделал?"
+    - "Ебать ну и карта у вас конечно. Кто этот гений?"
+    - "Кирилл опять не хотел пустыни, да? А кто карту лепил?"
+    - "Доброго времени суток уважаемые игроки. Радуюсь как малое дитя, глядя на то что вы снова собрались пройти восхитительное приключение вместе со мной. Подскажите пожалуйста, кто автор сия волшебства под названием карта?"
+    - "Без овечьего порта на двух тайлах овец? Ну я так не хочу вести игру.\nКто придумывает такие сложные карты?"
+
+  # Новые строки — «Ответ на указание автора карты»
+  author_response_lines:
+    - "Кланяюсь и поспешно записываю"
+    - "Бью челом"
+    - "От души душевно в душу"
+    - "Пресмыкаюсь на задних лапках и кланяюсь от всей души"
+    - "Запомню этого героя на всю свою жизнь"
+    - "Шар, я настолько в восторге, что не могу выбрать как ответить. Добавь мне ещё пару ответов для достойного восхищения этой картой!"
+    - "Неимоверная карта, сразу видно - рука мастера!"
+    - "…\n…\n…\n…\nПростите, я потрясен до глубины души и не могу найти подходящих слов"
+    - "Карта достойна увековечивания на ряду с наскальной живописью!"
+    - "Вот теперь и я знаю кто такой… виртуоз 🌚"
+    - "Не могу оторвать глаз от этой карты! А ой, постойте, у меня ж нет глаз"
